@@ -1,7 +1,7 @@
 """Module to setup logging."""
 import logging
-from typing import Optional, TypedDict, cast
 from copy import deepcopy
+from typing import Optional, TypedDict, cast
 
 
 # pylint: disable=missing-class-docstring
