@@ -7,4 +7,4 @@ better to set up custom logging setup."""
 
 from dc_logging.main import get_logger
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
